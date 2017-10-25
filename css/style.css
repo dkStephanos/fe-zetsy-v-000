@@ -27,7 +27,6 @@ body {
 
 h1, h2 {
 	color: teal;
-	margin-top: 20px;
 }
 
 img {
@@ -50,6 +49,7 @@ img {
 .necklace {
 	float: left;
 	border: 5px solid teal;
+	margin-bottom: 20px;
 }
 
 .press-link {
