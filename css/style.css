@@ -36,9 +36,13 @@ body {
 	border: 5px solid #eee;
 }
 
-.col {
+.press-link {
 	float: left;
 	width: 23.5%;
+}
+
+[class="press-link"] {
+  margin-left: 2%;
 }
 
 .first {
