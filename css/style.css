@@ -39,13 +39,13 @@ body {
 }
 
 .necklace {
-	border: 5px solid #fff;
+	border: 5px solid #333;
 }
 
 .press-link {
 	float: left;
 	width: 23.5%;
-	border: 5px solid #fff;
+	border: 5px solid #333;
 }
 
 [class="press-link"] {
