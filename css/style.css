@@ -45,7 +45,7 @@ body {
 
 .press-link {
 	border: 5px solid #333;
-	float: left;
+	overflow: hidden;
 }
 
 .press-link-box {
