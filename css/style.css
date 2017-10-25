@@ -29,6 +29,10 @@ h1, h2 {
 	color: teal;
 }
 
+h1 {
+	font-size: 43;
+}
+
 img {
 	max-width: 100%
 }
