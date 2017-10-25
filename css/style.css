@@ -35,3 +35,12 @@ body {
 .necklace {
 	border: 5px solid #eee;
 }
+
+.col {
+	float: left;
+	width: 23.5%;
+}
+
+.first {
+	margin-left: 0%;
+}
