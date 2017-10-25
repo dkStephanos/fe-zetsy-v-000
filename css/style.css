@@ -40,8 +40,8 @@ body {
 
 .press-link {
 	float: left;
-	width: 23.5%;
-	border: 5px solid #333;
+	width: 22.5%;
+	border: 1% solid #333;
 }
 
 [class="press-link"] {
