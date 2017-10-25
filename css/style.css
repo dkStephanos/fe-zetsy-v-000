@@ -63,3 +63,7 @@ img {
 .first {
 	margin-left: 0%;
 }
+
+#wiki-link {
+	text-decoration: none;
+}
