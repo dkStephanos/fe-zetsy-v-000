@@ -48,12 +48,12 @@ img {
 
 .necklace {
 	float: left;
-	border: 5px solid #333;
+	border: 5px solid teal;
 	padding-bottom: 20px;
 }
 
 .press-link {
-	border: 5px solid #333;
+	border: 5px solid teal;
 	margin: 0 auto;
 	position: relative;
 }
