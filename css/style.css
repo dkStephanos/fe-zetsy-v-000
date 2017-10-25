@@ -39,13 +39,13 @@ body {
 }
 
 .press-link {
-	float: left;
-	width: 22.5%;
-	border: 1% solid #333;
+	border: 5px solid #333;
+	margin-left: 2%;
 }
 
-[class="press-link"] {
-  margin-left: 2%;
+.press-link-box {
+	float: left;
+	width: 23.5%;
 }
 
 .first {
