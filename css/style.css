@@ -39,6 +39,7 @@ body {
 }
 
 .necklace {
+	float: left;
 	border: 5px solid #333;
 }
 
