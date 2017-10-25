@@ -33,6 +33,5 @@ body {
 }
 
 .necklace {
-	border: 10px;
-	border-color: #ccc;
+	border: 10px solid #ccc;
 }
