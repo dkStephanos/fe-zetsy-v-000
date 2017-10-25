@@ -19,11 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
+
 
 .copyright {
 	float: right;
