@@ -72,3 +72,7 @@ img {
 #wiki-link {
 	text-decoration: none;
 }
+
+a:hover {
+	color: blue;
+}
