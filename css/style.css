@@ -46,13 +46,13 @@ body {
 .press-link {
 	border: 5px solid #333;
 	overflow: hidden;
-	text-align: center;
 }
 
 .press-link-box {
 	float: left;
 	width: 23.5%;
 	margin-left: 2%;
+	text-align: center;
 }
 
 .first {
