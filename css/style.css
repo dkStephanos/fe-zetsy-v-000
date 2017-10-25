@@ -45,16 +45,13 @@ body {
 
 .press-link {
 	border: 5px solid #333;
-	overflow: hidden;
-	display: block;
-	
+	margin: 0 auto;
 }
 
 .press-link-box {
 	float: left;
 	width: 23.5%;
 	margin-left: 2%;
-	margin: 0 auto;
 
 }
 
