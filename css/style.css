@@ -31,3 +31,8 @@ body {
   height: 0;
   line-height: 0;
 }
+
+.necklace {
+	border: 3px;
+	border-color: #eee;
+}
